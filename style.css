@@ -1,0 +1,17 @@
+body {
+    background-color: yellow;
+    color: darkred;
+    padding: 15px;
+}
+
+#imageoflebron {
+    float: left;
+}
+
+#description {
+    float: right;
+}
+
+#gameReviews {
+    clear: both;
+}
